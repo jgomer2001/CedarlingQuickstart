@@ -1,10 +1,10 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T03:28:59.424546+00:00",
+    "generated_date": "2026-03-13T03:29:30.732564+00:00",
     "files": {
         "manifest.json": {
-            "size": 4033,
-            "checksum": "sha1:ea3edfdd8ebc9613aa5c81f0cfe7c1b112366c14"
+            "size": 4007,
+            "checksum": "sha1:7d30a6d4ae333677c3a12602f4cec2f75ed89dad"
         },
         "metadata.json": {
             "size": 325,
@@ -21,10 +21,6 @@
         "policies/allow_teacher_secretdocument.cedar": {
             "size": 266,
             "checksum": "sha1:d2c577a4d8f8417ae0f1b331f616b6831aed266a"
-        },
-        "policies/b5111ecf0d218da2cdbece83aeb77cb6b479d3b5d85c.cedar": {
-            "size": 131,
-            "checksum": "sha1:a96a71b7679d9baf6d2169f8f6ee3cd1aff4b841"
         },
         "policies/c367d06f19af8db1ec69354044334c799ff4cd2021ae.cedar": {
             "size": 237,
@@ -57,6 +53,10 @@
         "policies/security_admin_can_write_to_secretdocument.cedar": {
             "size": 313,
             "checksum": "sha1:53f7d49026281484ae5f31a699d3c712a2d225c2"
+        },
+        "policies/user_can_monitor.cedar": {
+            "size": 167,
+            "checksum": "sha1:6aec722807dbb0ef6c2351a490c1a113240f1057"
         },
         "policies/user_can_read.cedar": {
             "size": 161,
