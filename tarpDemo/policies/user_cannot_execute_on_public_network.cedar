@@ -3,7 +3,8 @@ forbid (
   principal is Jans::User,
   action == Jans::Action::"Execute",
   resource is Jans::Application
-) when {
+)
+when {
   context has network_type &&
   context.network_type == "public"
 };
