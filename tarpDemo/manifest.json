@@ -1,18 +1,14 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T03:14:18.736469+00:00",
+    "generated_date": "2026-03-13T03:15:14.249812+00:00",
     "files": {
         "manifest.json": {
             "size": 4191,
-            "checksum": "sha1:e013cc8ef21eb3637a11895f0a00837842ea274d"
+            "checksum": "sha1:a6e8495e7398971dcdfbd9c369d125fc52963ded"
         },
         "metadata.json": {
             "size": 325,
             "checksum": "sha1:d4c87ea5068c99a0da40ea41802b0554b93f62c8"
-        },
-        "policies/13b34711a196f382ade96677cefd513a2a6deff1b949.cedar": {
-            "size": 171,
-            "checksum": "sha1:411e7151fab69e6df5e7648f3ff72542d98e7b5d"
         },
         "policies/28e83add6e203af0d3814f06228e45a0eeb5c1269b08.cedar": {
             "size": 240,
@@ -53,6 +49,10 @@
         "policies/a6f9c66ddcadeeec9e0f65420c89715b00a835ffdaec.cedar": {
             "size": 122,
             "checksum": "sha1:191c7949720d26a44002b1eacb22e63e35e8fa9a"
+        },
+        "policies/admin_can_write_to_application.cedar": {
+            "size": 289,
+            "checksum": "sha1:847ed6fceaa723f1a64aa69b181dce19a527cbd5"
         },
         "policies/b5111ecf0d218da2cdbece83aeb77cb6b479d3b5d85c.cedar": {
             "size": 131,
