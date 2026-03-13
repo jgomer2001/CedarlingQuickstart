@@ -1,0 +1,94 @@
+{
+  "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
+  "generated_date": "2026-03-13T04:39:44.053309+00:00",
+  "files": {
+    "metadata.json": {
+      "size": 325,
+      "checksum": "sha1:7e7534ce4b7ca6dd69fac397b1059b57ff2caa2c"
+    },
+    "policies/admin_can_write_to_application.cedar": {
+      "size": 307,
+      "checksum": "sha1:557516498e371c2771b92d04b97dea4eacb7181f"
+    },
+    "policies/allow_student_read.cedar": {
+      "size": 277,
+      "checksum": "sha1:ee59049ff450163333c6b1e29d96059ea5190239"
+    },
+    "policies/allow_teacher_secretdocument.cedar": {
+      "size": 284,
+      "checksum": "sha1:72fbfbc0bfdcbd7e9649d2527e81560e2f4bab69"
+    },
+    "policies/cannot_write_if_not_admin.cedar": {
+      "size": 303,
+      "checksum": "sha1:60698b65b41f3ec01ce3d8fdef3f9886368391f5"
+    },
+    "policies/editor_can_share.cedar": {
+      "size": 294,
+      "checksum": "sha1:e8eff337ce68d0612a9b86adeb0d36d253a3140c"
+    },
+    "policies/security_admin_can_write_to_secretdocument.cedar": {
+      "size": 331,
+      "checksum": "sha1:1a36f2551c7044b5e89ca5af0b0a14dc198ea25f"
+    },
+    "policies/user_can_compare.cedar": {
+      "size": 167,
+      "checksum": "sha1:9f11aea60b0dd3f85cb721303cec06bd13c97159"
+    },
+    "policies/user_can_execute.cedar": {
+      "size": 167,
+      "checksum": "sha1:cfcb731c852e03f7e718367bf8a25c71848abc97"
+    },
+    "policies/user_can_monitor.cedar": {
+      "size": 167,
+      "checksum": "sha1:6aec722807dbb0ef6c2351a490c1a113240f1057"
+    },
+    "policies/user_can_read.cedar": {
+      "size": 161,
+      "checksum": "sha1:4176092cc6f8e8f34c845752b740e9998be33ea1"
+    },
+    "policies/user_can_read_if_confidential_role.cedar": {
+      "size": 320,
+      "checksum": "sha1:da798dd4a1983901776a1d3b16d7e59a01fac4eb"
+    },
+    "policies/user_can_read_if_email_is_example.cedar": {
+      "size": 308,
+      "checksum": "sha1:709cc56403e9e6664106a9e6c39ed663558bd14a"
+    },
+    "policies/user_can_read_in_corp_network.cedar": {
+      "size": 236,
+      "checksum": "sha1:a2c271e52da828d1a58778eb8e5ddb11bd11768e"
+    },
+    "policies/user_can_search.cedar": {
+      "size": 165,
+      "checksum": "sha1:9632a82fa98c5844c77b52f2fd47f4dd43ed986c"
+    },
+    "policies/user_can_tag.cedar": {
+      "size": 159,
+      "checksum": "sha1:4361e3bff33ce403ce9f188815ff79e58a2f72af"
+    },
+    "policies/user_cannot_execute_on_public_network.cedar": {
+      "size": 256,
+      "checksum": "sha1:4cf94d94531a62dc33e77726ac74e574902adb34"
+    },
+    "policies/user_cannot_read_if_compromised.cedar": {
+      "size": 266,
+      "checksum": "sha1:ccbb35dc20f1c01c449d096ac2d6a6d63245eb9e"
+    },
+    "policies/user_cannot_read_if_fraudulent.cedar": {
+      "size": 267,
+      "checksum": "sha1:2fdfa89f60e64e34efb9be550c602db5e0fd66a3"
+    },
+    "policies/user_cannot_write_from_restricted_country.cedar": {
+      "size": 270,
+      "checksum": "sha1:af3a66a7011c8588e9af0461be57a766dae74baf"
+    },
+    "schema.cedarschema": {
+      "size": 3875,
+      "checksum": "sha1:49939290b8ad6745f79a067d4ce7ca200f68c6ff"
+    },
+    "trusted-issuers/jans.json": {
+      "size": 1432,
+      "checksum": "sha1:e3d8bc023006e626a9dd7df6f44449d0d9527471"
+    }
+  }
+}
