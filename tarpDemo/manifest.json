@@ -1,10 +1,10 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T03:41:06.379519+00:00",
+    "generated_date": "2026-03-13T03:41:39.777680+00:00",
     "files": {
         "manifest.json": {
-            "size": 3865,
-            "checksum": "sha1:e8520c3599b531c2431c754c5e9d26883726a88c"
+            "size": 3837,
+            "checksum": "sha1:10c2857b8bd6f10dd01dbd902b53bf7f0d664d53"
         },
         "metadata.json": {
             "size": 325,
@@ -83,8 +83,8 @@
             "checksum": "sha1:2fdfa89f60e64e34efb9be550c602db5e0fd66a3"
         },
         "policies/user_cannot_write_from_restricted_country.cedar": {
-            "size": 226,
-            "checksum": "sha1:f3778f9139df04fb2c7ef86cf42b0dd7f271d4cd"
+            "size": 270,
+            "checksum": "sha1:af3a66a7011c8588e9af0461be57a766dae74baf"
         },
         "schema.cedarschema": {
             "size": 3875,
