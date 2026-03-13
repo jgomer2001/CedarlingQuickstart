@@ -1,14 +1,14 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T04:22:09.945143+00:00",
+    "generated_date": "2026-03-13T04:29:42.158436+00:00",
     "files": {
         "manifest.json": {
             "size": 3797,
-            "checksum": "sha1:2a459bedc270ef3d528bad6e3c756685fa26d70b"
+            "checksum": "sha1:24770a428acc56b479071ca59aedabe961e5799c"
         },
         "metadata.json": {
             "size": 325,
-            "checksum": "sha1:cc90042918018123d16bceb574506563d1402671"
+            "checksum": "sha1:d51c653cfd14bfe49f71daa70f1f48e933822020"
         },
         "policies/admin_can_write_to_application.cedar": {
             "size": 289,
@@ -19,8 +19,8 @@
             "checksum": "sha1:c0a7d7a5cb82a84a492a1a28efc31b6efa40cc77"
         },
         "policies/allow_teacher_secretdocument.cedar": {
-            "size": 266,
-            "checksum": "sha1:d2c577a4d8f8417ae0f1b331f616b6831aed266a"
+            "size": 284,
+            "checksum": "sha1:72fbfbc0bfdcbd7e9649d2527e81560e2f4bab69"
         },
         "policies/cannot_write_if_not_admin.cedar": {
             "size": 285,
