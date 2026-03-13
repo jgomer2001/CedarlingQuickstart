@@ -1,18 +1,18 @@
 {
     "policy_store_id": "449805c83e13f332b1b35eac6ffa93187fbd1c648085",
-    "generated_date": "2026-03-13T04:29:42.158436+00:00",
+    "generated_date": "2026-03-13T04:30:04.957845+00:00",
     "files": {
         "manifest.json": {
             "size": 3797,
-            "checksum": "sha1:24770a428acc56b479071ca59aedabe961e5799c"
+            "checksum": "sha1:29b68b6dc81c79b3be4eca8091cc8518a5dcfc4c"
         },
         "metadata.json": {
             "size": 325,
             "checksum": "sha1:d51c653cfd14bfe49f71daa70f1f48e933822020"
         },
         "policies/admin_can_write_to_application.cedar": {
-            "size": 289,
-            "checksum": "sha1:847ed6fceaa723f1a64aa69b181dce19a527cbd5"
+            "size": 307,
+            "checksum": "sha1:557516498e371c2771b92d04b97dea4eacb7181f"
         },
         "policies/allow_student_read.cedar": {
             "size": 259,
