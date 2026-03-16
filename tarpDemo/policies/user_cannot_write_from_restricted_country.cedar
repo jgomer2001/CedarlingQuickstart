@@ -1,9 +1,11 @@
 @id("user_cannot_write_from_restricted_country")
 forbid (
-  principal is Jans::User,
+  principal,
   action == Jans::Action::"Write",
   resource is Jans::SecretDocument
-) when {
+)
+when {
+  context has tokens.jans_userinfo_token &&
   context has geolocation &&
   context.geolocation.contains("restricted")
 };
