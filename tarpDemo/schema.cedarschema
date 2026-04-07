@@ -116,6 +116,11 @@ namespace Jans {
     validated_at?: Long
   } tags Set<String>;
 
+  entity student = {
+    grad_year: __cedar::Long,
+    name: __cedar::String
+  };
+
   action "Compare" appliesTo {
     principal: [User, Workload],
     resource: [Application],
