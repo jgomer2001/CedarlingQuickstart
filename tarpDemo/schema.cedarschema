@@ -183,7 +183,7 @@ namespace Jans {
 
   action "Search" appliesTo {
     principal: [User, Workload],
-    resource: [Application],
+    resource: [Application, student],
     context: Context
   };
 
